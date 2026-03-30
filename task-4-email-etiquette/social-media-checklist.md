@@ -1,10 +1,8 @@
 # Social Media Do's and Don'ts for College Students
 
-A responsible use checklist for students at VIT Bhopal University.
-
 ---
 
-## ✅ DO's
+## DO's
 
 1. **Keep your profiles professional** – Use a clear, appropriate profile photo and a bio that reflects your academic identity. Recruiters and faculty often view social media profiles.
 
@@ -24,7 +22,7 @@ A responsible use checklist for students at VIT Bhopal University.
 
 ---
 
-## ❌ DON'Ts
+## DON'Ts
 
 1. **Don't share personal information publicly** – Avoid posting your phone number, home address, college ID, or daily schedule on any public platform.
 
@@ -43,5 +41,3 @@ A responsible use checklist for students at VIT Bhopal University.
 8. **Don't use social media during lectures or exams** – Apart from the academic impact, it demonstrates disrespect to faculty and is increasingly subject to disciplinary action.
 
 ---
-
-*This checklist was created as part of the CSE0001 Digital Literacy Project, VIT Bhopal University.*
