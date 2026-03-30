@@ -7,12 +7,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | [YOUR FULL NAME] |
-| **Registration No.** | [YOUR REG NO.] |
-| **Branch** | [YOUR BRANCH, e.g. CSE / ECE / ME] |
+| **Name** | Aaditya Mhatre |
+| **Registration No.** | 25BCE11346 |
+| **Branch** | CSE |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **Submission Date** | [DATE] |
+| **Submission Date** | 30 March 2026 |
 
 ---
 
