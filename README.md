@@ -53,26 +53,26 @@ digital-literacy-project/
 
 ### Task 1 – Digital Literacy Awareness Infographic
 Created a one-page infographic using Canva covering the definition of digital literacy, safe internet practices, professional online presence, and useful digital tools for students.
-📁 See: `task-1-presentation/`
+ See: `task-1-presentation/`
 
 ### Task 2 – Student Digital Portfolio
 Set up professional profiles on GitHub, LinkedIn, and Kaggle. Created a GitHub profile README showcasing my academic background and goals.
-📁 See: `task-2-portfolio/`
-- 🔗 GitHub Profile: [YOUR GITHUB PROFILE LINK]
-- 🔗 LinkedIn: [YOUR LINKEDIN LINK]
+ See: `task-2-portfolio/`
+-  GitHub Profile: [https://github.com/Aadman17/]
+-  LinkedIn: [www.linkedin.com/in/aaditya-mhatre-29b6513a7]
 
 ### Task 3 – Coding & Collaboration Platforms
 Completed a beginner challenge on HackerRank and built a 5-question Digital Literacy Awareness Quiz using Google Forms.
-📁 See: `task-3-platforms/`
-- 🔗 Google Form (Quiz): [YOUR GOOGLE FORM LINK]
+ See: `task-3-platforms/`
+-  Google Form (Quiz): [https://docs.google.com/forms/d/e/1FAIpQLSf76NkoGYhiDwD86R_TU7FS0ylKpcnLPMai0pbLo04PNxb53Q/viewform?usp=header]
 
 ### Task 4 – Email Etiquette
 Drafted two professional emails and created a Social Media Do's and Don'ts checklist for responsible online communication.
-📁 See: `task-4-email-etiquette/`
+ See: `task-4-email-etiquette/`
 
 ### Task 5 – Cybercrime Awareness
 Researched UPI/Online Payment Fraud as a cybercrime case study and created a comprehensive 'Stay Safe Online' checklist tailored for Indian college students.
-📁 See: `task-5-cybercrime/`
+See: `task-5-cybercrime/`
 
 ---
 
