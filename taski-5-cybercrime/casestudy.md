@@ -37,4 +37,3 @@ Rohan lost money that his parents had sent for his monthly expenses. Beyond the 
 
 ---
 
-*Source: Pattern based on documented UPI fraud reports from RBI, NPCI advisories, and cybercrime.gov.in case summaries (2023–2024).*
