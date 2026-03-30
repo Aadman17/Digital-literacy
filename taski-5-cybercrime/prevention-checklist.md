@@ -54,5 +54,3 @@
 
 ---
 
-*Checklist created as part of CSE0001 – Digital Literacy, VIT Bhopal University.*
-*References: cybercrime.gov.in | RBI Safe Banking Guidelines | NPCI UPI Safety Advisories*
