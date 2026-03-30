@@ -12,7 +12,7 @@
 | **Branch** | CSE |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **Submission Date** | 30 March 2026 |
+| **Submission Date** | 31 March 2026 |
 
 ---
 
