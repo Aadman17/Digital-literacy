@@ -5,22 +5,19 @@
 
 ## Student Details
 
-| Field | Details |
-|-------|---------|
-| **Name** | Aaditya Mhatre |
-| **Registration No.** | 25BCE11346 |
-| **Branch** | CSE |
-| **Year** | First Year B.Tech |
-| **Course Code** | CSE0001 – Digital Literacy |
-| **Submission Date** | 31 March 2026 |
 
----
+**Name:**  Aaditya Mhatre 
+ **Registration No.:**  25BCE11346 
+ **Branch**: CSE 
+ **Year:**  First Year B.Tech 
+ **Course Code:**  CSE0001 – Digital Literacy 
+ **Submission Date:**  31 March 2026 
+
 
 ## Project Overview
 
 This repository is my Digital Literacy Portfolio, created as part of the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have completed five tasks covering digital awareness, professional online presence, coding platforms, email communication, and cybersecurity.
 
----
 
 ## Repository Structure
 
@@ -47,7 +44,6 @@ digital-literacy-project/
     └── prevention-checklist.md
 ```
 
----
 
 ## Module Summaries
 
@@ -78,12 +74,11 @@ See: `task-5-cybercrime/`
 
 ## Tools Used
 
-| Task | Tool / Platform |
-|------|----------------|
-| Task 1 | Canva (canva.com) |
-| Task 2 | GitHub, LinkedIn, Kaggle |
-| Task 3 | HackerRank, Google Forms |
-| Task 4 | Google Docs / Markdown |
-| Task 5 | cybercrime.gov.in (reference) |
+ Task  Tool / Platform 
+ Task 1  Canva (canva.com) 
+ Task 2  GitHub, LinkedIn, Kaggle 
+ Task 3  HackerRank, Google Forms 
+ Task 4  Google Docs / Markdown 
+ Task 5  cybercrime.gov.in (reference) 
 
 ---
