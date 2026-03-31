@@ -1,7 +1,7 @@
 # CSE0001 – Digital Literacy Project
 **VIT Bhopal University**
 
----
+
 
 ## Student Details
 
@@ -70,7 +70,6 @@ Drafted two professional emails and created a Social Media Do's and Don'ts check
 Researched UPI/Online Payment Fraud as a cybercrime case study and created a comprehensive 'Stay Safe Online' checklist tailored for Indian college students.
 See: `task-5-cybercrime/`
 
----
 
 ## Tools Used
 
@@ -81,4 +80,3 @@ See: `task-5-cybercrime/`
  Task 4  Google Docs / Markdown 
  Task 5  cybercrime.gov.in (reference) 
 
----
