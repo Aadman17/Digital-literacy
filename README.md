@@ -87,5 +87,3 @@ See: `task-5-cybercrime/`
 | Task 5 | cybercrime.gov.in (reference) |
 
 ---
-
-*Submitted as part of CSE0001 – Digital Literacy, VIT Bhopal University.*
