@@ -6,12 +6,12 @@
 ## Student Details
 
 
-**Name:**  Aaditya Mhatre 
- **Registration No.:**  25BCE11346 
- **Branch**: CSE 
- **Year:**  First Year B.Tech 
- **Course Code:**  CSE0001 – Digital Literacy 
- **Submission Date:**  31 March 2026 
+**Name:**  Aaditya Mhatre      
+ **Registration No.:**  25BCE11346    
+ **Branch**: CSE   
+ **Year:**  First Year B.Tech   
+ **Course Code:**  CSE0001 – Digital Literacy   
+ **Submission Date:**  31 March 2026   
 
 
 ## Project Overview
